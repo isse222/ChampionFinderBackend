@@ -11,6 +11,6 @@ public class
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChampionfinderApplication.class, args);
-		System.out.println("Champion  BackEnd");
+		System.out.println("Champion  BackEnd.");
 	}
 }
